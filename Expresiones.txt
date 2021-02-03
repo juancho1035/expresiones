@@ -1,0 +1,7 @@
+[LOG ENTRY] [ERROR] The system is unstable
+[LOG ENTRY] [ERROR] The system is unstable
+[LOG ENTRY] [WARN] The system is unstable
+[LOG ENTRY] [WARN] The system is unstable
+[LOG DATA] [ERROR] The system is unstable
+[LOG ENTRY] [LOG] The system is unstable
+[LOG DATA] [LOG] The system is unstable
