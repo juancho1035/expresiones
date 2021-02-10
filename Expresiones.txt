@@ -79,3 +79,18 @@ dominio.com
 [LOG ENTRY] [LOG] [user:@beco] Clicked here
 [LOG ENTRY] [LOG] [user:@beco] Rated the app
 [LOG ENTRY] [LOG] [user:@beco] Logged out
+
+
+#dominos:
+http://b3co.com/?s=fotografia&mode=serarch&module=blog
+
+[\?&](\w+)=([^&\n]+)
+- $1=$2
+
+http://b3co.com/
+
+ - s=fotografia
+
+ - mode=serarch
+
+ - module=blog
